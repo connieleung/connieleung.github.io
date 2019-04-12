@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "ven/jquery-knob/package.json",
+        "ven/reveal-plugin/lib/animateCSS/package.json",
+        "ven/reveal-plugin/wave/package.json"
+      ]
+    }
+  }
+}
